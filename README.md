@@ -10,9 +10,15 @@ just a passionate developer of random projects
 </p>
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianiolo&show_icons=true&locale=en&layout=compact" alt="julianiolo" /></p>
+<!--
+![julianiolo](https://github-readme-stats.vercel.app/api?username=julianiolo&show_icons=true&locale=en)
+![julianiolo](https://github-readme-stats.vercel.app/api/top-langs?username=julianiolo&show_icons=true&locale=en&layout=compact)
+-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julianiolo&show_icons=true&locale=en" alt="julianiolo" /></p>
+<p>
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=julianiolo&show_icons=true&locale=en" alt="julianiolo" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianiolo&show_icons=true&locale=en&layout=compact" alt="julianiolo" />
+</p>
 
 <!--
 **Julianiolo/Julianiolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
