@@ -1,5 +1,5 @@
 ### Hi :)
-just a passionate developer of random projects
+just a passionate developer of random projects 🐢
 
 
 <!--
